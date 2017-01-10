@@ -17,3 +17,11 @@
 **Thoughts:** I think I made a serious issue while working with the nodes gotten from OpenStreetMap, because the generated map is still slightly deformed, doesn't matter how I approach it. Might be a rounding problem, which if it is, I need to dig deeper. Anyways, I will work on something more fun part of this project tomorrow.
 
 **Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
+
+### Day 3: January 10th, 2017
+
+**Today's Progress**: Successfully identified the problem which was causing builds to crash on Android: it was related to Unity's location service. As it turns out, [it is a bug in Unity 's implementation itself!](https://issuetracker.unity3d.com/issues/android-location-app-crashes-due-to-error-jstring-has-wrong-type-android-dot-location-dot-location). Luckily, the initial commit I made on GitHub was with a working version.
+
+**Thoughts:** This day was a huge bummer but also a big relief. This crash really demotivated me, so that's why I went on a 3-4 day hiatus from #100DaysOfCode. But now I feel I can make progress again from tomorrow!
+
+**Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
