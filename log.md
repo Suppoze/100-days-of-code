@@ -25,3 +25,13 @@
 **Thoughts:** This day was a huge bummer but also a big relief. This crash really demotivated me, so that's why I went on a 3-4 day hiatus from #100DaysOfCode. But now I feel I can make progress again from tomorrow!
 
 **Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
+
+### Day 4: January 12th, 2017
+
+**Today's Progress**: Still had some issues with Unity versions, but in the end, I managed to restore a working project. This took a sizable amount of time, but I could spend some time with upgrading the visuals a little, I also added some status messages.
+
+![](images/day4.png)
+
+**Thoughts:** I am relieved that I can finally leave this problem behind, seems like I can focus on more fun parts of the project in the future.
+
+**Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
