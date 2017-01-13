@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 4: January 12th, 2017
+## Day 5: January 13th, 2017
+
+**Today's Progress**: Made some effects for the nodes that are in reach, also an info popup. Also made a button for cycling through nearby nodes, although it might need some rework.
+
+![](images/day5.png)
+
+**Thoughts:** Really great progress overall, but I'm not sure about the cycle mechanic yet. The point is that there will be a specific node you have to get to and activate, maybe I will rework the cycle button to be "Activate", and you can simply select a node by tapping on it in the world. And make the particle effect appear on all nodes within reach (which are selectable) and add another indicator for the selected node. I'll think about tomorrow.
+
+**Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
+
+## Day 4: January 12th, 2017
 
 **Today's Progress**: Still had some issues with Unity versions, but in the end, I managed to restore a working project. This took a sizable amount of time, but I could spend some time with upgrading the visuals a little, I also added some status messages.
 
@@ -10,7 +20,7 @@
 
 **Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
 
-### Day 3: January 10th, 2017
+## Day 3: January 10th, 2017
 
 **Today's Progress**: Successfully identified the problem which was causing builds to crash on Android: it was related to Unity's location service. As it turns out, [it is a bug in Unity 's implementation itself!](https://issuetracker.unity3d.com/issues/android-location-app-crashes-due-to-error-jstring-has-wrong-type-android-dot-location-dot-location). Luckily, the initial commit I made on GitHub was with a working version.
 
@@ -18,7 +28,7 @@
 
 **Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
 
-### Day 2: January 6th, 2017
+## Day 2: January 6th, 2017
 
 **Today's Progress**: Sadly, Unity refused to build a working version of the app today, I am still investigating what is causing the problem. Other than that, I tried to tweak the coordinate normalization further.
 
@@ -26,7 +36,7 @@
 
 **Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
 
-### Day 1: January 5th, 2017
+## Day 1: January 5th, 2017
 
 **Today's Progress**: Today I spent a good 2-3 hours to fix a coordinate normalization problem I noticed: the nodes where not scaled properly on one axis.
 
