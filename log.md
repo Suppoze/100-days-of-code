@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 6: January 18th, 2017
+
+**Today's Progress**: Decided to make the change I was thinking about the other day, so I implemented a touch listener, to be able to interact with the nodes. Also, I added a little blue selection arrow above the currently selected node, which is managed by a selection controller.
+The node info bar and node highlighting will need a rework now.
+
+[See my Twitter post for a quick demo!](https://twitter.com/suppoze/status/821771988087799811)
+
+**Thoughts:** Hard to get the everyday habit going, but I hope I can keep it up from now on. To be honest, I still exercise and learn more since I started participating. So overall I feel good, but also I could do better. Slowly, but steadily I'm aiming to improve.
+
+**Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
+
 ## Day 5: January 13th, 2017
 
 **Today's Progress**: Made some effects for the nodes that are in reach, also an info popup. Also made a button for cycling through nearby nodes, although it might need some rework.
