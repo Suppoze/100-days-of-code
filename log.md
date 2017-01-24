@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 7: January 24th, 2017
+
+**Today's Progress**: Improved node selection and highlighting nodes in range. Nothing visually demonstrative.
+
+**Thoughts:** I won't even mention how many days I left out. I'm starting to think I'm approaching this challenge wrong - I won't do it because I want to do something significant, which takes more than one hour, and I find it harder to make myself do it. But if I lower my expectations of myself and be content with doing smaller improvements, then maybe I can maintain the (close to) daily routine.
+
+**Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
+
 ## Day 6: January 18th, 2017
 
 **Today's Progress**: Decided to make the change I was thinking about the other day, so I implemented a touch listener, to be able to interact with the nodes. Also, I added a little blue selection arrow above the currently selected node, which is managed by a selection controller.
