@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 8: January 25th, 2017
+
+**Today's Progress**: Started another project: wanted to make a Discord Bot. So I set up the application on the Discord developer console, and put together a very basic bot called PupperBot. It'll be written in Kotlin language, using the Discord4J library. Currently it can only reply, and change the "Playing" status.
+
+![](images/day8.png)
+
+**Thoughts:** This is something I've been wanting to try, and it turns out, it's not that hard to start out. Also it was a refreshing session, Kotlin is something I've been neglecting nowadays. I plan to teach lil' PupperBot some fun stuff in the near future! But beforehand, I'll need to think about how to structure this project.
+
+**Link to work:** [PupperBot-Discord](https://github.com/Suppoze/pupperbot-discord)
+
 ## Day 7: January 24th, 2017
 
 **Today's Progress**: Improved node selection and highlighting nodes in range. Nothing visually demonstrative.
