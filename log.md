@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 9: January 31th, 2017
+
+**Today's Progress**: Added the Fuel HTTP networking library to my Discord bot, in order to implement basic Giphy functions. Now you can get a random gif limited by a tag, by ";giphy tag". Also made some improvements to the structure of the project.
+
+**Thoughts:** I think I need to improve the architecture further, for example I'm planning on adding Dagger2 for easy dependency injection, and I also want to make use of RxJava, because both Discord4J and Fuel could benefit from it.
+
+**Link to work:** [PupperBot-Discord](https://github.com/Suppoze/pupperbot-discord)
+
 ## Day 8: January 25th, 2017
 
 **Today's Progress**: Started another project: wanted to make a Discord Bot. So I set up the application on the Discord developer console, and put together a very basic bot called PupperBot. It'll be written in Kotlin language, using the Discord4J library. Currently it can only reply, and change the "Playing" status.
