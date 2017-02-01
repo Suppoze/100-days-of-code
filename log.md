@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 10: February 1st, 2017
+
+**Today's Progress**: Not much progress today, just added RxJava and changed the Giphy request to to return Observables. It was really easy, like this Fuel library so far!
+
+**Thoughts:** Now that's done, I think I'll rethink the app a little to utilize the reactive approach further. I could implement an RSS module perhaps?
+
+**Link to work:** [PupperBot-Discord](https://github.com/Suppoze/pupperbot-discord)
+
 ## Day 9: January 31th, 2017
 
 **Today's Progress**: Added the [Fuel HTTP networking library](https://github.com/kittinunf/Fuel) to my Discord bot, in order to implement basic Giphy functions. Now you can get a random gif limited by a tag, by ";giphy tag". Also made some improvements to the structure of the project.
