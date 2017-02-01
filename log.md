@@ -2,7 +2,7 @@
 
 ## Day 9: January 31th, 2017
 
-**Today's Progress**: Added the Fuel HTTP networking library to my Discord bot, in order to implement basic Giphy functions. Now you can get a random gif limited by a tag, by ";giphy tag". Also made some improvements to the structure of the project.
+**Today's Progress**: Added the [Fuel HTTP networking library](https://github.com/kittinunf/Fuel) to my Discord bot, in order to implement basic Giphy functions. Now you can get a random gif limited by a tag, by ";giphy tag". Also made some improvements to the structure of the project.
 
 **Thoughts:** I think I need to improve the architecture further, for example I'm planning on adding Dagger2 for easy dependency injection, and I also want to make use of RxJava, because both Discord4J and Fuel could benefit from it.
 
