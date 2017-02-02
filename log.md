@@ -4,6 +4,9 @@
 
 **Today's Progress**: Today I worked on my geocaching app again. Realized why my latitude-longitude normalization was way off, so I reimplemented it using [equirectangular projection](https://en.wikipedia.org/wiki/Equirectangular_projection). Seems like this feature won't need any more attention (for now).
 
+Difference: (the arrow is a little cray cray now)
+![](images/day11.png)
+
 **Thoughts:** Brought myself into fixing a long-lasting bug with my thesis, so when I work again on it, I can focus on the more fun stuff. I'll put PupperBot on hold for now. Also, longest streak yet (which is a shame, but whatevs)
 
 **Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
