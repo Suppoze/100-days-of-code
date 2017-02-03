@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 12: February 3nd, 2017
+
+**Today's Progress**: Today I started working on implementing the game area in my geocaching app. This is represented with a "force field" on the map. I also spent a lot of time fiddling around in Blender, I needed a more detailed cylinder than the built-in Unity map.
+
+**Thoughts:** The idea behind this game area that you can only activate nodes within it, and you cannot leave this area. I think even if I haven't made a lot a progress today, I've learnt a lot. Blender is hard, but fun. Learned a lot about UV mapping! Screenshot tomorrow.
+
+**Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
+
 ## Day 11: February 2nd, 2017
 
 **Today's Progress**: Today I worked on my geocaching app again. Realized why my latitude-longitude normalization was way off, so I reimplemented it using [equirectangular projection](https://en.wikipedia.org/wiki/Equirectangular_projection). Seems like this feature won't need any more attention (for now).
