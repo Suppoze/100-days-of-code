@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 13: February 8th, 2017
+
+**Today's Progress**: Today I worked on PupperBot. I'm integrating a dependency injection library for Kotlin called [Kodein](https://salomonbrys.github.io/Kodein/). Only scratching the surface, but looks pretty promising!
+
+**Thoughts:** Decided to come back to improving my Discord bot. I want to make a solid foundation if I want to implement some more demanding features in the future. Like image macro generation, or RSS reader (I think I will start with the latter). Also, I want to deploy it to my Raspberry Pi.
+
+**Link to work:** [PupperBot-Discord](https://github.com/Suppoze/pupperbot-discord)
+
 ## Day 12: February 3nd, 2017
 
 **Today's Progress**: Today I started working on implementing the game area in my geocaching app. This is represented with a "force field" on the map. I also spent a lot of time fiddling around in Blender, I needed a more detailed cylinder than the built-in Unity map.
