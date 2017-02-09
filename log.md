@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 14: February 9th, 2017
+
+**Today's Progress**: Added [ROME library](https://rometools.github.io/rome/) to my Discord bot in order to process RSS feeds, and post updates in chat in embedded form. Also moved around some stuff for better organization. Also tried deploying the bot to my RPi, which was a failure.
+
+**Thoughts:** The RSS feed reader is still very much work in progress. I have to think about how to cache the feeds, and how to check for updated periodically. It will be a good challenge. I'll probably need some kind of persistent database. Maybe SQLite?
+
+**Link to work:** [PupperBot-Discord](https://github.com/Suppoze/pupperbot-discord)
+
 ## Day 13: February 8th, 2017
 
 **Today's Progress**: Today I worked on PupperBot. I'm integrating a dependency injection library for Kotlin called [Kodein](https://salomonbrys.github.io/Kodein/). Only scratching the surface, but looks pretty promising!
