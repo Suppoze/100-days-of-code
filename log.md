@@ -3,10 +3,13 @@
 ## Day 19: March 7th, 2017
 
 **Today's Progress**: Decided to focus on adjusting the player position in a way that the player is put on the nearest road. After a bit of thinking I tried an implementation of this, but I think I'm slightly off-track about this problem. So no good solution yet.
+
 Also, it might be necessary to do so refactoring, because in order to have fast visible progress, I often neglect good coding patterns, and it is getting a little hard to maintain. So tomorrow I'll get to refactoring some of the classes.
 
 **Thoughts:** As you can see, I kind of failed so far with this challenge. But I want to continue, and do not plan to abandon this project or delete this repository. My reasoning is that I should be held accountable for my progress, even if it's not the best.
+
 I'm a little disappointed in myself that I didn't do better because I definitely could, but it has been hard nowadays. Anyways, it seems like I'll be updating daily from now on because I'm on a tight deadline with my thesis and I'll need to focus.
+
 Also, I'm thinking about extending this challenge for myself in the future by adding days that make up for the days I missed so far. Which carries the risk of never completing the challenge by the way, but that way I at least have a way to redeem myself in the future. We'll see.
 
 **Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
@@ -14,7 +17,9 @@ Also, I'm thinking about extending this challenge for myself in the future by ad
 ## Day 18: March 6th, 2017
 
 **Today's Progress**: Today I spent a lot of time troubleshooting Unity. I installed the latest beta because I heard that the [bug that has preventing me from upgrading Unity  since January has been fixed in 5.6](https://issuetracker.unity3d.com/issues/android-location-app-crashes-due-to-error-jstring-has-wrong-type-android-dot-location-dot-location).
+
 But as I tried building the project with the new version, the process always hanged at packaging shared assets, no matter how much time I gave it. After a lot of trial and error I realized that none of the beta versions can build my project at the moment, so I installed the latest stable version. I later realized that it also got a patch which fixed this particular bug, so it was a big facepalm moment.
+
 I also set up Unity Remote 5 on my Android device for faster debugging, which I do not know how I lived without so far. So I got to clean up some *#if UNITY_EDITOR* preprocessor directives.
 
 **Thoughts:** This is part of a late update (writing this on March 7th). More thoughts on that daily update.
