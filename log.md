@@ -25,6 +25,8 @@ I also set up Unity Remote 5 on my Android device for faster debugging, which I 
 
 **Today's Progress**: Today I can show you how the corridors look like so far, they are pretty plain, but I learned a lot during the creation of these, namely how to create custom meshes, set the normals for the triangles and and adjust the UV map values. Still, the result is kinda lackluster, but I think I can improve it by adding an outside wall to the corridor - this way the corridor itself can cast shadows for the inside, which should improve the appearance slightly.
 
+![](images/day17.png)
+
 **Thoughts:** This is part of a late update (writing this on March 7th). More thoughts on that daily update.
 
 **Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
@@ -40,6 +42,8 @@ I also set up Unity Remote 5 on my Android device for faster debugging, which I 
 ## Day 15: February 17th, 2017
 
 **Today's Progress**: Worked again on my thesis. Added an indicator for the collider around the player where a nearby node can be selected, also some smaller fixes and stuff.
+
+![](images/day15.png)
 
 **Thoughts:** This is part of a late update (writing this on March 7th). More thoughts on that daily update.
 
