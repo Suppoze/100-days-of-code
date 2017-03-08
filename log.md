@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 20: March 8th, 2017
+
+**Today's Progress**: Today I made some progress with adjusting the players position to the roads. It's not perfect, because sometimes it likes to jump around between two parallel roads. So tomorrow I'll take a look at implementing some kind of algorithm to track the preferred road.
+
+**Thoughts:** Today was a good day, cleaned up some code and the road detection and player location adjustment turned out okay. I feared it would impact the performance too much, but it seems a couple hundred of Raycast isn't a problem (at least for now)
+
+**Link to work:** [Labyrinth-Thesis](https://github.com/Suppoze/Labyrinth-Thesis)
+
 ## Day 19: March 7th, 2017
 
 **Today's Progress**: Decided to focus on adjusting the player position in a way that the player is put on the nearest road. After a bit of thinking I tried an implementation of this, but I think I'm slightly off-track about this problem. So no good solution yet.
