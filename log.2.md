@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 3: 2018-04-04
+
+**Today's Progress:** I worked on PupperBot again. I had some errands to do today so I only had time to refine some domain models for the cinema API and delete some ded code. I also had some regex practice!
+
+**Thoughts:** Although I did not make incredible progress, I managed to learn some new regex trix, also had time to think about how I'll approach the abstraction of the Cinema City API layer.
+
+**Link to work:** https://github.com/Suppoze/pupperbot-discord/compare/dev-cinema-imp
+
 ## Day 2: 2018-04-03
 
 **Today's Progress:** I started implementing the new Cinema functionality into PupperBot. I'm trying to apply SOLID principles more this time, while also trying to still keep it simple (stupid).
