@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 4: 2018-04-05
+
+**Today's Progress:** I use awesome [Fuel](https://github.com/kittinunf/Fuel) Kotlin lib for my HTTP requests - however I find it a little low level for my needs, so I started to build a wrapper around it - to suit my special needs (path params), and for awesome dependency inversion and abstraction. No commits today though, because it's unfinished atm. Maybe I could also go with extension functions?
+
+**Thoughts:** It was a little late when I opened up IntelliJ, but I did not regret it. Even if squeezing a little work in, you can get into the flow rather quickly if you have a plan what you want to accomplish.
+
+**Link to work:** https://github.com/Suppoze/pupperbot-discord/compare/dev-cinema-imp
+
 ## Day 3: 2018-04-04
 
 **Today's Progress:** I worked on PupperBot again. I had some errands to do today so I only had time to refine some domain models for the cinema API and delete some ded code. I also had some regex practice!
