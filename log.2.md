@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 5: 2018-04-06
+
+**Today's Progress:** Until I figure out the abstraction I want to implement for the Rest requests, I wanted to try out the Cinema City API itself. I managed to get some work done, but I messed up an extension function, which was meant to replace "path params" in a string (like {{0}}). So will finish it tomorrow! I also looked into how to approach testing in Kotlin, and I found a [great article](https://blog.philipphauer.de/best-practices-unit-testing-kotlin/) by Philipp Hauer.
+
+**Thoughts:** I found out that it's sometimes easier to rather keep coding for a while and try to improve small things before starting a bigger task, just to warm you up, and give some time to think and get inspiration for the upcoming bigger work.
+
+**Link to work:** https://github.com/Suppoze/pupperbot-discord/compare/dev-cinema-imp
+
 ## Day 4: 2018-04-05
 
 **Today's Progress:** I use awesome [Fuel](https://github.com/kittinunf/Fuel) Kotlin lib for my HTTP requests - however I find it a little low level for my needs, so I started to build a wrapper around it - to suit my special needs (path params), and for awesome dependency inversion and abstraction. No commits today though, because it's unfinished atm. Maybe I could also go with extension functions?
