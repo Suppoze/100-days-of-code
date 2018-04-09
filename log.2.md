@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 7: 2018-04-09
+
+**Today's Progress:** I worked on PupperBot again. I did some investigation and testing and it turns out that the current HTTP networking library I use ([Fuel](https://github.com/kittinunf/Fuel)) does not support cookie stores - and I will need that to consume the cinema API. I could have realized this sooner, but whatever. Good thing that I already started to refactor the REST clients to be more abstract, because I'll have to change the implementation. To my understanding, OkHTTP has this functionality, although it's not a pure Kotlin-focused library. No commits today though.
+
+**Thoughts:** Well today's work was a little frustrating, but enlightening. I've learnt a lot about networking and troubleshooting. I had to whip out the good old Wireshark to investigate why it's different to make a simple GET request in Postman (which is working) and different from within the application. But in the end, today was a good day.
+
+**Link to work:** https://github.com/Suppoze/pupperbot-discord/compare/dev-cinema-imp
+
 ## Day 6: 2018-04-07
 
 **Today's Progress:** I fixed the path param replacer function by creating some unit tests (duh - I should TDD more...). I use JUnit 5 which just came out recently - folks say it's really good with Kotlin! I also realized that the Cinema City API rejects my requests somehow. Presumably the problem is in my code, because with Postman I ping the API without problems.
