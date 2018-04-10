@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 8: 2018-04-10
+
+**Today's Progress:** Worked on PupperBot. Finally managed to get the cinema API work with [OkHTTP](http://square.github.io/okhttp/)! It was also a very good practice for dependency inversion, I think the code is so much more well structured. Pupper managed to reply with an embed with the movie screenings, although just for one day for now - I'm planning on displaying the whole next week.
+
+**Thoughts:** I was so prepared when I got home - I was thinking about how I'll approach this problem. Once I started, I was in the flow, and today was very productive I feel. Feels good to make visible progress now - not just screwing around with the details.
+
+**Link to work:** https://github.com/Suppoze/pupperbot-discord/compare/dev-cinema-imp
+
 ## Day 7: 2018-04-09
 
 **Today's Progress:** I worked on PupperBot again. I did some investigation and testing and it turns out that the current HTTP networking library I use ([Fuel](https://github.com/kittinunf/Fuel)) does not support cookie stores - and I will need that to consume the cinema API. I could have realized this sooner, but whatever. Good thing that I already started to refactor the REST clients to be more abstract, because I'll have to change the implementation. To my understanding, OkHTTP has this functionality, although it's not a pure Kotlin-focused library. No commits today though.
