@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 9: 2018-04-11
+
+![](images/pupper.png)
+
+**Today's Progress:** Finally, the cinema API rework is done! There's still room for improvement, but the basics are laid down. PupperBot is able to generate an embed of the movie screenings of the coming week. [Check out my PR](https://github.com/Suppoze/pupperbot-discord/pull/1) if you are curious about what's changed.
+
+**Thoughts:** I thought I'd finish sooner with the basic cinema functionality, but nevertheless I enjoyed it a lot. I still have plans how to improve it, like choosing a specific moovie by reacting with a certain emoji (I've seen this functionality in several bots and I think it's genious). Right now the embed is waaaay to long.
+
+Tomorrow I'll get to another project, maybe I'll start excercising with Unity, because we with my friends intend to enter the next [41st Ludum Dare Jam](https://ldjam.com/events/ludum-dare/41)! Stay tuned!
+
+**Link to work:** https://github.com/Suppoze/pupperbot-discord/pull/1
+
 ## Day 8: 2018-04-10
 
 **Today's Progress:** Worked on PupperBot. Finally managed to get the cinema API work with [OkHTTP](http://square.github.io/okhttp/)! It was also a very good practice for dependency inversion, I think the code is so much more well structured. Pupper managed to reply with an embed with the movie screenings, although just for one day for now - I'm planning on displaying the whole next week.
