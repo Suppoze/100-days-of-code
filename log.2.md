@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 10: 2018-04-12
+
+**Today's Progress:** NEW PRPJECT! I started revising my Unity "game" for the (university course attended several years ago)[https://github.com/Suppoze/SZTE-TTIK-Unity-Course]. It's about time! Today I set up the required environments, and did some code cleanup & refactor to meet my improved standards since I last worked on the project.
+
+**Thoughts:** Althought I drank a little bit of beer and such, I was able to squeeze in some meaningful work. That proves that some recreational drinks and programming are not excluseive!
+
+**Link to work:** https://github.com/Suppoze/SZTE-TTIK-Unity-Course
+
 ## Day 9: 2018-04-11
 
 ![](images/pupper.png)
