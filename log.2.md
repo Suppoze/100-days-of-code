@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 11: 2018-04-16
+
+**Today's Progress:** Actually, decided against to continue working on my Unity game and work on my Spring Boot self-development application, [cinegrow](https://github.com/Suppoze/cinegrow). Today was mostly research, I read about how to incorporate Spring Security into the application.
+
+**Thoughts:** Sadly I had some missing days in between, but I'm back in action. Realized I should work on my mentoring project instead, so I'll learn Spring Security in the coming days.
+
+**Link to work:** https://github.com/Suppoze/cinegrow 
+
 ## Day 10: 2018-04-12
 
-**Today's Progress:** NEW PROJECT! I started revising my Unity "game" for the [university course attended several years ago](https://github.com/Suppoze/SZTE-TTIK-Unity-Course). It's about time! Today I set up the required environments, and did some code cleanup & refactor to meet my improved standards since I last worked on the project.
+**Today's Progress:** NEW PROJECT! I started revising my Unity "game" for the [university course attended several years ago](https://github.com/Suppoze/flatland-unity-game). It's about time! Today I set up the required environments, and did some code cleanup & refactor to meet my improved standards since I last worked on the project.
 
 **Thoughts:** Althought I drank a little bit of beer, I was able to squeeze in some meaningful work. That proves that some recreational drinks and programming are not exclusive!
 
-**Link to work:** https://github.com/Suppoze/SZTE-TTIK-Unity-Course
+**Link to work:** https://github.com/Suppoze/flatland-unity-game
 
 ## Day 9: 2018-04-11
 
