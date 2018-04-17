@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 12: 2018-04-17
+
+**Today's Progress:** Worked on [cinegrow](https://github.com/Suppoze/cinegrow) - experimented with implementing basic authentication, and SSL. Not quite there yet - I want a more elegant "API key" solution instead of username + password authentication.
+
+**Thoughts:** Today was mostly research again, but I think I'm starting to get the grasp of how to implement what I want specifically.
+
+**Link to work:** https://github.com/Suppoze/cinegrow 
+
 ## Day 11: 2018-04-16
 
 **Today's Progress:** Actually, decided against to continue working on my Unity game and work on my Spring Boot self-development application, [cinegrow](https://github.com/Suppoze/cinegrow). Today was mostly research, I read about how to incorporate Spring Security into the application.
