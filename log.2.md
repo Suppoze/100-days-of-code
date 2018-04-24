@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 16: 2018-04-22
+
+**Today's Progress:** [LUDUM DARE 41 JAM TIME](https://ldjam.com/events/ludum-dare/41)! Second day of the 72 hour competition. We basically got up at 8:00 AM and started working immediately. But as it turned out towards the afternoon, that we probably won't make it to the end. We were unprepared and out of practice for this challenge. Most of the hurdles came from C# itself - it works vastly different in some places from the likes of Java or Kotlin, especially we had a lot of problems implementing our architecture ideas using C# generics. So in the end a lot of time went into troubleshooting and not actual gameplay prototyping. We will continue toworrow nevertheless.
+
+**Thoughts:** It was harder than we thought, but we were not surprised - we went into this with zero preparation. Also, iirc only I had some previous, more significant experience with Unity (university course, thesis, hobby projects). I still think Ludum Dare is not about winning, but having fun, and we definitely did that. It really moves your gears and gets you into the flow. New ideas start pouring and you get a newfound passion and motivation for programming - at least this is my opinion.
+
+**Link to work:** *Coming soon?*
+
 ## Day 15: 2018-04-21
 
 **Today's Progress:** [LUDUM DARE 41 JAM TIME](https://ldjam.com/events/ludum-dare/41)! We started a bit late, 1:00 PM CET (it would have started at 3:00 AM). The theme is "Combine 2 Incompatible Genres" which in my opinion is a little bit too broad. We spent most of the day brainstorming, then laying down the engine basics for our local co-op crafting/incremental game which will be made in Unity. At the end of the day, it seems our idea will be a little bit too ambitious :)
