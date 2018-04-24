@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 14: 2018-04-19
+
+**Today's Progress:** Tried to implement the API Key solution to the [cinegrow](https://github.com/Suppoze/cinegrow) project as [defined in this StackOverflow answer](https://stackoverflow.com/questions/48446708/securing-spring-boot-api-with-api-key-and-secret). Could not finish it today, so no commits - but will do for the next mentoring session.
+
+**Thoughts:** I'm not gonna lie - Spring Security is not really topic I really enjoy, but I realize the importance of it. That's why I'm dedicated at (trying) to learn it's ins and outs (eventually).
+
+**Link to work:** https://github.com/Suppoze/cinegrow 
+
 ## Day 13: 2018-04-18
 
 **Today's Progress:** Fixed some issues with the basic authentication and SSL in [cinegrow](https://github.com/Suppoze/cinegrow). Also read some posts and tutorials about Spring Security 5.
