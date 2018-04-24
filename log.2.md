@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 16: 2018-04-23
+
+**Today's Progress:** [LUDUM DARE 41 JAM TIME](https://ldjam.com/events/ludum-dare/41)! Third day of the 72 hour Jam. After a little bit of (remote) work until the afternoon, we officially gave up on finishing the game. There were no chance we could ship something semi-completed, and it wouldn't made sense to do so. Instead we spent the remaining day with a retrospective on what we could have done differently, and watching [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) videos (which are cool and educative as heck).
+
+**Thoughts:** We did not gave upon the game idea: we will definitely finish it. Whether it will be the continuation of this project, or a fresh new start (maybe even in Gamemaker) is still to be decided. But definitely a fun and challenging and three days. I've learnt a lot, and of course, we WILL register for the next Jam / Compo in 4 months! (even more prepared, with even more people)
+
+**Link to work:** *Coming soon?*
+
 ## Day 16: 2018-04-22
 
 **Today's Progress:** [LUDUM DARE 41 JAM TIME](https://ldjam.com/events/ludum-dare/41)! Second day of the 72 hour competition. We basically got up at 8:00 AM and started working immediately. But as it turned out towards the afternoon, that we probably won't make it to the end. We were unprepared and out of practice for this challenge. Most of the hurdles came from C# itself - it works vastly different in some places from the likes of Java or Kotlin, especially we had a lot of problems implementing our architecture ideas using C# generics. So in the end a lot of time went into troubleshooting and not actual gameplay prototyping. We will continue toworrow nevertheless.
