@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 15: 2018-04-21
+
+**Today's Progress:** [LUDUM DARE 41 JAM TIME](https://ldjam.com/events/ludum-dare/41)! We started a bit late, 1:00 PM CET (it would have started at 3:00 AM). The theme is "Combine 2 Incompatible Genres" which in my opinion is a little bit too broad. We spent most of the day brainstorming, then laying down the engine basics for our local co-op crafting/incremental game which will be made in Unity. At the end of the day, it seems our idea will be a little bit too ambitious :)
+
+**Thoughts:** It was a ton of fun getting into the flow and start prototyping stuff with my friend in Unity! Beers and pizza were had, and we were programming for a solid 14 hours today, which I think is a good start.
+
+**Link to work:** *Coming soon?*
+
 ## Day 14: 2018-04-19
 
 **Today's Progress:** Tried to implement the API Key solution to the [cinegrow](https://github.com/Suppoze/cinegrow) project as [defined in this StackOverflow answer](https://stackoverflow.com/questions/48446708/securing-spring-boot-api-with-api-key-and-secret). Could not finish it today, so no commits - but will do for the next mentoring session.
 
 **Thoughts:** I'm not gonna lie - Spring Security is not really topic I really enjoy, but I realize the importance of it. That's why I'm dedicated at (trying) to learn it's ins and outs (eventually).
 
-**Link to work:** https://github.com/Suppoze/cinegrow 
+**Link to work:** https://github.com/Suppoze/cinegrow
 
 ## Day 13: 2018-04-18
 
@@ -14,7 +22,7 @@
 
 **Thoughts:** Not that much time today to prepare for tomorrow's mentoring session, but did some work nevertheless.
 
-**Link to work:** https://github.com/Suppoze/cinegrow 
+**Link to work:** https://github.com/Suppoze/cinegrow
 
 ## Day 12: 2018-04-17
 
