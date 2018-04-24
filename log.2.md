@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 13: 2018-04-18
+
+**Today's Progress:** Fixed some issues with the basic authentication and SSL in [cinegrow](https://github.com/Suppoze/cinegrow). Also read some posts and tutorials about Spring Security 5.
+
+**Thoughts:** Not that much time today to prepare for tomorrow's mentoring session, but did some work nevertheless.
+
+**Link to work:** https://github.com/Suppoze/cinegrow 
+
 ## Day 12: 2018-04-17
 
 **Today's Progress:** Worked on [cinegrow](https://github.com/Suppoze/cinegrow) - experimented with implementing basic authentication, and SSL. Not quite there yet - I want a more elegant "API key" solution instead of username + password authentication.
