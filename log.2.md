@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 19: 2019-04-25
+
+**Today's Progress:** Today I still worked at our LD41 game, no commits though. I was thinking about completely reworking the inventory HUD system, so transferring object between inventories could be more dynamic and satisfying. (Visually lerping from point A to B). Also I actually switched to [Rider](https://www.jetbrains.com/rider/) from Visual Studio 2017, because I'm infinitely more familiar with JetBrains products (I'm a fanboy, really)
+
+**Thoughts:** I'm realizing the flaws in how we designed some functionality in the game. I think we should completely rethink some parts, for example the Interactable objects.
+
+**Link to work:** *Coming soon?*
+
 ## Day 18: 2018-04-24
 
 **Today's Progress:** Worked a little bit on our LD41 game, just to improve some bits here and there. Most importantly some changes to the stack inventory UI.
