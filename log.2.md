@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (2nd run)
 
+## Day 18: 2018-04-24
+
+**Today's Progress:** Worked a little bit on our LD41 game, just to improve some bits here and there. Most importantly some changes to the stack inventory UI.
+
+**Thoughts:** We still think that we should finish this little game sometime, but until we have a more clear idea how we should approach the great refactor, I figured I'll just throw in some improvements.
+
+**Link to work:** *Coming soon?*
+
 ## Day 17: 2018-04-23
 
 ![](images/LD41.png)
