@@ -36,6 +36,6 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.2.md)
+* [Log - click here to see my progress](log.3.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
