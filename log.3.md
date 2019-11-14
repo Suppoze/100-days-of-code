@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 1: 2019-11-14
+
+![](images/3/day2.png)
+
+**Today's Progress:** Implemented a basic board generation script.
+
+**Thoughts:** Progress feels good! I'm not really satisfied with the gems though, I think the they should be more generic, and not each of them should be a separate prefab.
+
+**Link to work:** https://github.com/zsoki/match-three-project
+
 ## Day 1: 2019-11-13
 
 ![](images/3/day1.png)
