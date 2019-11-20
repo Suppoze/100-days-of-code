@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log (3rd run)
 
-## Day 2: 2019-11-14
+## Day 3: 2019-11-20
 
 **Today's Progress:** Tried to implement scaling of the gems on mouse enter and mouse exit. Unfortunately I did not quite get it...
 
