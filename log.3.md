@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log (3rd run)
 
-## Day 1: 2019-11-14
+## Day 2: 2019-11-14
+
+**Today's Progress:** Tried to implement scaling of the gems on mouse enter and mouse exit. Unfortunately I did not quite get it...
+
+**Thoughts:** Last couple of days were busy, so I could not spend time with the challange. But I'm always happy when I can sit down a little, even for a little brainstorm!
+
+**Link to work:** https://github.com/zsoki/match-three-project
+
+## Day 2: 2019-11-14
 
 ![](images/3/day2.png)
 
