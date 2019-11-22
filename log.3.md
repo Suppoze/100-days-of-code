@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 4: 2019-11-22
+
+**Today's Progress:** Ditched the scaling for a bit, instead I'm trying to implement a generic data structure for the gems, so that I don't need a prefab for every gem color (and behaviour) later. Trying ScriptableObjects, but not sure it is what I need.
+
+**Link to work:** https://github.com/zsoki/match-three-project
+
 ## Day 3: 2019-11-20
 
 **Today's Progress:** Tried to implement scaling of the gems on mouse enter and mouse exit. Unfortunately I did not quite get it...
