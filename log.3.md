@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 6: 2019-11-25
+
+**Today's Progress:** Rewatched parts of the video from the previous day, and I tought of a way to track the gems on the board using the something similar of the RuntimeSet pattern described in the presentation. RuntimeSet2D will have horizontal and vertical dimensions which are set by IntVariable scriptable objects.
+
+Most of it is done, but still getting NullPointerExceptions... Will get to fixing it tomorrow!
+
+**Link to work:** https://github.com/zsoki/match-three-project
+
 ## Day 5: 2019-11-24
 
 **[Link to Tweet with video](https://twitter.com/zsoki_/status/1198649212461879296)**
