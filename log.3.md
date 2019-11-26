@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 7: 2019-11-26
+
+**Today's Progress:** Fixed the NPE, yaay! I guess I need to look into the order of ScriptableObject vs. MonoBehaviour lifecycle. Seemed like Start() for the MonoBehaviour ran before the ScriptableObject's Awake()?
+
+For now, the NPE is fixed by initializing the property lazily, but it's not perfect because it does depend on other properties being initialized...
+
+**Link to work:** https://github.com/zsoki/match-three-project
+
+
 ## Day 6: 2019-11-25
 
 **Today's Progress:** Rewatched parts of the video from the previous day, and I tought of a way to track the gems on the board using the something similar of the RuntimeSet pattern described in the presentation. RuntimeSet2D will have horizontal and vertical dimensions which are set by IntVariable scriptable objects.
