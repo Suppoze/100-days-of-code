@@ -2,7 +2,7 @@
 
 ## Day 8: 2019-11-27
 
-**Today's Progress:** Today I wanted to work on my Discord bot called (PupperBot)[https://github.com/zsoki/pupperbot-discord]. So far I just struggled with Gradle and spent some time with research on which embedded database solution should I use for some new features. Because I want to persist the data to local storage as well, (Nitrite)[https://www.dizitart.org/nitrite-database/] looks quite intriguing! I shall try it tomorrow.
+**Today's Progress:** Today I wanted to work on my Discord bot called [PupperBot](https://github.com/zsoki/pupperbot-discord). So far I just struggled with Gradle and spent some time with research on which embedded database solution should I use for some new features. Because I want to persist the data to local storage as well, [Nitrite](https://www.dizitart.org/nitrite-database/) looks quite intriguing! I shall try it tomorrow.
 
 **Link to work:** https://github.com/zsoki/pupperbot-discord
 
