@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 9: 2019-11-28
+
+**Today's Progress:** I was still struggling with updating dependencies in the PupperBot project, when I realized that at some point, for some reason, I overwrote the Gradle settings in IntelliJ, so it did not use the gradle wrapper, but rather an outdated distribution installed. Nevertheless, after realizing this mistake I started migrating the gradle scripts and the whole project to Gradle 6.0.1 and using Kotlin DSL scripts. It's fun so far!
+
+**Link to work:** https://github.com/zsoki/pupperbot-discord
+
 ## Day 8: 2019-11-27
 
 **Today's Progress:** Today I wanted to work on my Discord bot called [PupperBot](https://github.com/zsoki/pupperbot-discord). So far I just struggled with Gradle and spent some time with research on which embedded database solution should I use for some new features. Because I want to persist the data to local storage as well, [Nitrite](https://www.dizitart.org/nitrite-database/) looks quite intriguing! I shall try it tomorrow.
