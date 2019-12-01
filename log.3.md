@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 11: 2019-12-01
+
+**Today's Progress:** Finally finished migrating the Gradle script to Kotlin DSL for PupperBot! The only thing missing is handling extra properties like you could in the Groovy script. But I think I'll rather just use [jmfayard's buildSrcVersions Gradle plugin](https://github.com/jmfayard/gradle-dependencies-plugins) - it provides much better dependency version management!
+
+Coming up: updating all of the dependencies of PupperBot...
+
+**Link to work:** https://github.com/zsoki/pupperbot-discord
+
 ## Day 10: 2019-11-29
 
 **Today's Progress:** Turns out the shadow plugin for Gradle is causing issues, it does not support Gradle 6.x yet. That was not the only issue though. I still have some work left with migrating the build script to the Gradle Kotlin DSL, will continue tomorrow!
