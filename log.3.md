@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 10: 2019-11-29
+
+**Today's Progress:** Turns out the shadow plugin for Gradle is causing issues, it does not support Gradle 6.x yet. That was not the only issue though. I still have some work left with migrating the build script to the Gradle Kotlin DSL, will continue tomorrow!
+
+**Link to work:** https://github.com/zsoki/pupperbot-discord
+
 ## Day 9: 2019-11-28
 
 **Today's Progress:** I was still struggling with updating dependencies in the PupperBot project, when I realized that at some point, for some reason, I overwrote the Gradle settings in IntelliJ, so it did not use the gradle wrapper, but rather an outdated distribution installed. Nevertheless, after realizing this mistake I started migrating the gradle scripts and the whole project to Gradle 6.0.1 and using Kotlin DSL scripts. It's fun so far!
