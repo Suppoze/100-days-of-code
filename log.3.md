@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 12: 2019-12-02
+
+**Today's Progress:** Okay turns out there was still stuff to do with the Gradle Kotlin DSL migration. But it seems like everything is working now! Also cleaned up the project in general, like I don't know why but some of the IntelliJ project generated files were pushed to the repository which can cause major issues and weird stuff in a Gradle/Maven managed project...
+
+Coming up: Now that I have all of my dependencies updated, I can work on the breaking changes for all the libs, gonna be fun!
+
+**Link to work:** https://github.com/zsoki/pupperbot-discord
+
 ## Day 11: 2019-12-01
 
 **Today's Progress:** Finally finished migrating the Gradle script to Kotlin DSL for PupperBot! The only thing missing is handling extra properties like you could in the Groovy script. But I think I'll rather just use [jmfayard's buildSrcVersions Gradle plugin](https://github.com/jmfayard/gradle-dependencies-plugins) - it provides much better dependency version management!
