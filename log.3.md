@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 13: 2019-12-03
+
+![](images/3/day13.png)
+
+**Today's Progress:** Finally! The updated PupperBot is up and running on local! Breaking changes introduced with dependency updates fixed. But looking at the project, I think I need some big refactors and to Y E E T some useless code. Tomorrow, I'll set some milestones!
+
+**Link to work:** https://github.com/zsoki/pupperbot-discord
+
 ## Day 12: 2019-12-02
 
 **Today's Progress:** Okay turns out there was still stuff to do with the Gradle Kotlin DSL migration. But it seems like everything is working now! Also cleaned up the project in general, like I don't know why but some of the IntelliJ project generated files were pushed to the repository which can cause major issues and weird stuff in a Gradle/Maven managed project...
