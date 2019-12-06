@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 14: 2019-12-06
+
+**Today's Progress:** Unfortunately I was really busy in recent days, but today I managed to get rid of some old unused dependencies and functionalities in PupperBot. I want to do a semi-clean start!
+
+I was also watching the [Kotlin Conference 2019](https://kotlinconf.com/), so I'm really motivated to continue with PupperBot and have some fun with Kotlin :)
+
+**Link to work:** https://github.com/zsoki/pupperbot-discord
+
 ## Day 13: 2019-12-03
 
 ![](images/3/day13.png)
