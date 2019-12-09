@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 15: 2019-12-09
+
+![](images/3/day15.png)
+
+**Today's Progress:** I was really in the flow today while refactoring PupperBot, honestly reading [Marcin Moskala's recently released Effective Kotlin book](https://leanpub.com/effectivekotlin) made me realize so many past mistakes and gave me such a huge inspiration... It's awesome. I'm not gonna go into details, but I have decided on some principles for this project:
+
+- Less is more, so get rid of unnecessary depencendies
+- Similarly, limitation is the mother of creativity
+
+So I am getting rid of KodeIn, the DI dependency I've been using in the project. I've realized that because the project is really small, it's not necessary - I should exercise good practices and clean code instead.
+
+**Materials:** [Marcin Moskala - Effective Kotlin](https://leanpub.com/effectivekotlin)
+
+**Link to work:** https://github.com/zsoki/pupperbot-discord
+
 ## Day 14: 2019-12-06
 
 **Today's Progress:** Unfortunately I was really busy in recent days, but today I managed to get rid of some old unused dependencies and functionalities in PupperBot. I want to do a semi-clean start!
