@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 16: 2019-12-10
+
+**Today's Progress:** Same as yesterday: the changelist is just growing and growing! I think it will be at least 3-4 days until I can run PupperBot "2.0" again. Having so much fun! But as it turns out, livign without a service locator or "dependency injection" like Kodein is harder than I thought. But that just encourages me to come up with a clever and clean way of providing dependencies.
+
+Like defining the application profile with a DSL? Hmm...
+
+**Link to work:** https://github.com/zsoki/pupperbot-discord
+
 ## Day 15: 2019-12-09
 
 ![](images/3/day15.png)
