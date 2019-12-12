@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log (3rd run)
 
+## Day 17: 2019-12-12
+
+**Today's Progress:** I'm almost at the point that I can launch PupperBot again. However, it'll only be a start, a foundation to do the rest of the rework... We'll see. One thing I can say: it's much more difficult to write clean code without dependency injection or service locators.
+
+**Link to work:** https://github.com/zsoki/pupperbot-discord
+
 ## Day 16: 2019-12-10
 
 **Today's Progress:** Same as yesterday: the changelist is just growing and growing! I think it will be at least 3-4 days until I can run PupperBot "2.0" again. Having so much fun! But as it turns out, livign without a service locator or "dependency injection" like Kodein is harder than I thought. But that just encourages me to come up with a clever and clean way of providing dependencies.
